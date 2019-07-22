@@ -57,3 +57,12 @@ msgid "1 user removed from list!"
 msgid_plural "%s users removed from list!"
 msgstr[0] "1 user removed from list!"
 msgstr[1] "%s users removed from list!"
+
+
+#: kitsune/sumo/static/sumo/js/customercare
+#, fuzzy, python-format
+msgid "1 user removed from group!"
+msgid_plural "%s users removed from group!"
+msgstr[0] "1 user removed from group!"
+msgstr[1] "%s users removed from group!"
+
