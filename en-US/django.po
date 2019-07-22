@@ -13,6 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.6.0\n"
 
+#: kitsune/announcements/forms.py:16 kitsune/kbforums/jinja2/kbforums/confirm_post_delete.html:20 kitsune/questions/jinja2/questions/confirm_answer_delete.html:17
+#: kitsune/wiki/jinja2/wiki/confirm_revision_delete.html:25
+msgid "Content"
+msgstr "Content"
+
 #: kitsune/customercare/jinja2/customercare/reply_modal.html:38
 #, fuzzy
 msgid "Get personal"
