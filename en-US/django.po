@@ -1,3 +1,18 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: support.mozilla.com\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-12-17 12:15-0800\n"
+"PO-Revision-Date: 2010-04-26 18:00-0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: English\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.6.0\n"
+
 #: kitsune/customercare/jinja2/customercare/reply_modal.html:38
 #, fuzzy
 msgid "Get personal"
