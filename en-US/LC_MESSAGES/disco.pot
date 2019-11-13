@@ -243,3 +243,7 @@ msgstr ""
 msgid "Six More"
 msgstr ""
 
+#: src/ui/components/ThemeImage/lol.js:101
+msgid "Seven More"
+msgstr ""
+
