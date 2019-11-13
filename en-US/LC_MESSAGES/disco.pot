@@ -251,4 +251,8 @@ msgstr ""
 msgid "Eight More"
 msgstr ""
 
+#: src/ui/components/ThemeImage/lol.js:101
+msgid "Nine More"
+msgstr ""
+
 
