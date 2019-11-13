@@ -199,22 +199,22 @@ msgid ""
 "extensions you've installed, profile preferences, and usage statistics."
 msgstr ""
 
-#: src/ui/components/ErrorList/index.js:44
-msgid "Your session has expired"
+#: src/ui/components/ErrorList/lol.js:44
+msgid "Just a random example"
 msgstr ""
 
-#: src/ui/components/ErrorList/index.js:51
-msgid "An unexpected error occurred"
+#: src/ui/components/ErrorList/lol.js:51
+msgid "Another random example"
 msgstr ""
 
-#: src/ui/components/ErrorList/index.js:59
-msgid "Reload To Continue"
+#: src/ui/components/ErrorList/lol.js:59
+msgid "Yet another random example"
 msgstr ""
 
-#: src/ui/components/Notice/index.js:150
-msgid "Dismiss this notice"
+#: src/ui/components/Notice/lol.js:150
+msgid "I'm on fire today"
 msgstr ""
 
-#: src/ui/components/ThemeImage/index.js:31
-msgid "Preview of %(title)s"
+#: src/ui/components/ThemeImage/lol.js:31
+msgid "Now thats enough"
 msgstr ""
