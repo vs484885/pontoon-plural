@@ -294,3 +294,7 @@ msgstr "Vista previa de %(title)s"
 
 #~ msgid "Ok"
 #~ msgstr "Vale"
+
+#: src/ui/components/ThemeImage/lol.js:101
+msgid "Two More"
+msgstr "Dos mas"

@@ -218,3 +218,11 @@ msgstr ""
 #: src/ui/components/ThemeImage/lol.js:31
 msgid "Now thats enough"
 msgstr ""
+
+#: src/ui/components/ThemeImage/lol.js:41
+msgid "One more"
+msgstr ""
+
+#: src/ui/components/ThemeImage/lol.js:101
+msgid "Two More"
+msgstr ""
