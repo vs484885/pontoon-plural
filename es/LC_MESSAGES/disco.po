@@ -302,3 +302,7 @@ msgstr "Dos mas"
 #: src/ui/components/ThemeImage/lol.js:101
 msgid "Two More"
 msgstr "Tres mas"
+
+#: src/ui/components/ThemeImage/lol.js:101
+msgid "Five More"
+msgstr "Cinco mas"
