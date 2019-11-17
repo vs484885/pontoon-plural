@@ -256,3 +256,17 @@ msgid "Nine More"
 msgstr ""
 
 
+#: src/ui/components/ThemeImage/lol.js:101
+msgid "Ten More"
+msgstr ""
+
+#: src/ui/components/ThemeImage/lol.js:101
+msgid "Eleven More"
+msgstr ""
+
+#: src/ui/components/ThemeImage/lol.js:101
+msgid "Twelve More"
+msgstr ""
+
+
+
