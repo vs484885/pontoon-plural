@@ -4,3 +4,5 @@ manifest-item-presentation = Presentation
 lolcat-hihi = Hey there
 
 lolcat-hoho = Bye
+
+bla-bla-bla = Last one
